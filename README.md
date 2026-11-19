@@ -1,16 +1,16 @@
 <div align="center">
 
-# Nikhil Singh
-### **Business Analyst • Product & Operations Analyst • Software Developer • Entrepreneur**
+# Nikhil Kumar Singh
+### **Business Analyst • Product Owner • Software Developer • Tech Entrepreneur**
 
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-cyconik.github.io%2Fportfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyconik.github.io/portfolio/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Cyconik-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyconik)
+[![Email Contact](https://img.shields.io/badge/Email-cyco2052544%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyco2052544@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Noida%2C%20UP%2C%20India-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white)](#-connect--contact)
 [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-059669?style=for-the-badge)](#-professional-experience)
-[![Focus](https://img.shields.io/badge/Focus-Product%20Delivery%20%7C%20BA%20%7C%20Engineering-6366F1?style=for-the-badge)](#-core-competencies)
 
 <p align="center">
-  <em>Bridging the gap between business objectives, complex user journeys, and robust engineering architecture.</em>
+  <em>Bridging business analysis, product ownership, and hands-on engineering architecture.</em>
 </p>
 
 ---
@@ -19,12 +19,51 @@
 
 ## 📌 Executive Summary
 
-I am a **Business Analyst and Product Builder** with 4 years of experience spanning requirement engineering, digital product delivery, operational workflow optimization, cross-functional vendor management, and modern web architectures.
+I am a **Business Analyst, Product Owner, and Tech Entrepreneur** with 4 years of experience across requirement engineering, digital product delivery, operational workflow optimization, and high-converting web systems.
 
-* **Strategic Execution**: Proven track record in translating ambiguous business challenges into actionable Functional Requirement Documents (FRD), Business Requirement Documents (BRD), User Stories, and Acceptance Criteria.
+* **Strategic Execution**: Proven track record in translating complex business challenges into actionable Functional Requirement Documents (FRD), Business Requirement Documents (BRD), User Stories, Acceptance Criteria, and UAT test plans.
 * **Measurable Growth**: Spearheaded digital strategy and technical SEO at Creative Tura for Turbo Auto Parts, accelerating organic search traffic from **~1,570 to 17,700 monthly sessions in just 4 months** (**+1,027% organic growth**).
-* **Technical Breadth**: Hands-on familiarity with modern tech stacks, including **Python**, **Dart/Flutter**, **PHP/MySQL**, **WordPress/WooCommerce**, **REST APIs**, **Cloud/Hosting (AWS, cPanel)**, and automated workflows.
-* **Product Entrepreneurship**: Founder and builder of independent tech ventures including **ScanSecure** (smart QR emergency medical card), **QuickChat** (decentralized offline BLE mesh messenger), and **SpillX** (anonymous social sharing).
+* **Flagship Venture**: Founder of **Bargenify** ([bargenify.com](https://bargenify.com/)) — **India's 1st online bargaining platform**, building plugins and APIs for e-commerce shop owners to enable real-time digital price negotiations.
+* **Product Entrepreneurship**: Founder of **ScanSecure** ([scansecure.in](https://scansecure.in)), **Galigram** ([galigram.com](https://galigram.com)), **SpillX** ([spillx.in](https://spillx.in)), and **WebPConverter.tech**.
+
+---
+
+## 🚀 Flagship & Featured Built Products
+
+### 1. 🌟 [Bargenify](https://bargenify.com) — *Founder & Lead Architect*
+> **India's 1st Online Bargaining Platform — Digital Price Negotiation Plugin & API**
+* **The Innovation**: Digitizes India's cultural retail bargaining experience for e-commerce. Building plug-and-play merchant plugins and APIs for online shop owners that let customers negotiate product prices in real time.
+* **Business Impact**: Converts price-hesitant cart abandoners into buyers while automatically protecting seller profit margins through configurable threshold algorithms.
+
+### 2. [ScanSecure](https://scansecure.in) — *Founder*
+> **India's #1 Emergency Smart Card Platform (QR-Enabled PVC Tech)**  
+* **Problem Solved**: Enables first responders or bystanders to instantly access vital emergency medical data and primary emergency contacts without requiring the patient's phone to be unlocked, an app installed, or user login.
+* **Capabilities**: Defined end-to-end user journeys for individual, student, and corporate safety cards. Configured dynamic user profile workflows and physical QR pairing protocols.
+
+### 3. [Galigram](https://galigram.com) — *Founder*
+> **Location-Aware Hyper-Local Social Micro-Video Platform (30s Reports)**  
+* **Status**: *In Development (Under Active Process)*
+* **Vision**: Concise 30-second video reporting, hyper-local discovery, community updates, and neighborhood conversation streams without algorithmic outrage feeds.
+
+### 4. [WebPConverter.tech](https://webpconverter.tech) — *Creator & Architect*
+> **Real-Time Image Compression — Reduces Up to 90% File Size with Zero Quality Loss**  
+* **Highlights**: Browser-based client-side WebAssembly batch converter and compression suite that slashes image payloads by up to 90% without visual degradation. Includes developer REST APIs and WordPress/WooCommerce plugin integrations.
+
+### 5. [SpillX](https://spillx.in) — *Founder*
+> **Anonymous Social Confession & Discussion Community**  
+* **Highlights**: Engineered WordPress-backed platform with anonymous text confession feeds, interactive emotional reactions, private 1-on-1 conversations, safety moderation pipelines, and targeted SEO strategy.
+
+### 6. [QuickChat](https://github.com/Cyconik/QuickChat) — *Developer*
+> **100% Offline Bluetooth Mesh Group Messenger for Android**  
+* **Architecture**: Zero Internet, Zero Cellular Data, Zero SIM Cards. Implements autonomous **Multi-Hop BLE Phone-to-Phone packet relaying** (`Phone A ➔ Phone B ➔ Phone C ➔ Phone D`).
+* **Direct Download**: [QuickChat-Mesh-Offline.apk](https://github.com/Cyconik/QuickChat/raw/main/QuickChat-Mesh-Offline.apk)
+
+### 7. CyberZip Developer Tools & Production Plugins
+* **[Universal Reblog & Republish](https://cyberzip.in/universal-reblog-republish/)**: Zero-dependency WordPress plugin empowering visitors to share posts across 9+ platforms in 1-click with canonical backlink attribution.
+* **[Element Inspector](https://cyberzip.in/element-inspector/)**: Chrome Extension for web developers & designers to inspect DOM elements, download images, and copy CSS/URLs in 1-click.
+* **[Bulk Mailer](https://cyberzip.in/bulk-mailer/)**: 100% lifetime free and spam-free cold email outreach tool with Google Sheets sync, Gmail App Password, SMTP, and merge tags.
+* **[B2B Leads Scraper](https://cyberzip.in/leads-scraper.php)**: 100% block-free B2B and Google Maps lead generation scraper with anti-blocking request workflows.
+* **[Client Websites Built From Scratch](https://cyberzip.in/our-work.php)**: Portfolio of production web applications, e-commerce storefronts, and fintech platforms delivered from scratch.
 
 ---
 
@@ -33,7 +72,7 @@ I am a **Business Analyst and Product Builder** with 4 years of experience spann
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Business Analysis & Product Strategy</h3>
+      <h3>📊 Business Analysis & Product Ownership</h3>
       <ul>
         <li><strong>Requirements Engineering:</strong> BRD, FRD, User Stories, Acceptance Criteria, Scope Definition</li>
         <li><strong>Traceability & QA:</strong> Requirements Traceability Matrix (RTM), Gap Analysis, UAT Test Cases, Change Request Logs</li>
@@ -75,40 +114,6 @@ I am a **Business Analyst and Product Builder** with 4 years of experience spann
 
 ---
 
-## 🚀 Products & Featured Engineering Projects
-
-### 1. [ScanSecure](https://scansecure.in) — *Founder & Lead Architect*
-> **Emergency Smart-Card Platform (QR-Enabled PVC Tech)**  
-* **Problem Solved**: Enables first responders or bystanders to instantly access vital emergency medical data and primary emergency contacts without requiring the patient's phone to be unlocked, an app installed, or user login.
-* **Capabilities**: Defined end-to-end user journeys for individual, student, and corporate safety cards. Configured dynamic user profile workflows, physical QR pairing protocols, and merchant partner collaterals.
-
-### 2. [QuickChat](https://github.com/Cyconik/QuickChat) — *Developer*
-> **100% Offline Bluetooth Mesh Group Messenger for Android**  
-* **Architecture**: Zero Internet, Zero Cellular Data, Zero SIM Cards. Implements autonomous **Multi-Hop BLE Phone-to-Phone packet relaying** (`Phone A ➔ Phone B ➔ Phone C ➔ Phone D`).
-* **Highlights**: Persistent broadcast channels (`#Nearby-Public-Mesh`, `#Trek-Emergency-SOS`), real-time unread alerts, audio chimes/haptics, admin moderation controls, and local persistent storage.
-* **Direct Download**: [QuickChat-Mesh-Offline.apk](https://github.com/Cyconik/QuickChat/raw/main/QuickChat-Mesh-Offline.apk)
-
-### 3. [Job Auto Apply Engine](https://github.com/Cyconik/job-auto-apply) — *Developer*
-> **Automated Multi-Platform Application Bot & Screening Engine**  
-* **Stack**: Python, Streamlit, Selenium WebDriver, pdfplumber, PyMuPDF, python-docx, pandas.
-* **Features**: Automates application workflows across LinkedIn Easy Apply, Indeed, Remotive, and Naukri. Features automated resume parsing, semantic match-score evaluation against job descriptions, full screenshot audit logging for proof-of-submission, and automated HTML email digests with CSV/Excel exports.
-
-### 4. [SpillX](https://spillx.in) — *Founder*
-> **Anonymous Social Confession & Discussion Community**  
-* **Highlights**: Engineered WordPress-backed platform with anonymous text confession feeds, interactive emotional reactions, private 1-on-1 conversations, safety moderation pipelines, and targeted SEO strategy.
-
-### 5. [Galigram](https://galigram.com) — *Product Builder*
-> **Location-Aware Hyper-Local Social Information Platform**  
-* **Vision**: Concise 30-second video reporting, hyper-local discovery, community updates, and neighborhood conversation streams. (Global release scheduled for Jan 2027).
-
-### 6. WebPConverter.tech & Custom Ecosystem Tools
-* **WebPConverter.tech**: High-performance browser-based batch image converter and compression suite with client-side WebAssembly rendering, standalone REST API, and WordPress/WooCommerce plugin integration.
-* **CyberZip Bulk Mailer**: Operational bulk outreach engine built for scheduled corporate outreach and delivery tracking.
-* **Leads Scraper**: Automated target-based lead collection pipeline extracting verified B2B prospect intelligence.
-* **Custom WordPress Plugins**: Developed custom WooCommerce product-bargaining bidding plugin, automated SEO blog publishing tool, and asset compression utilities.
-
----
-
 ## 💼 Professional Experience
 
 ```mermaid
@@ -119,6 +124,7 @@ timeline
          : Prodemy India (WordPress & SEO Strategist)
     2024 : Creative Tura / Turbo Auto Parts (BA / WP Developer)
          : Opalspace (Business Analyst - Current)
+    2025 : Bargenify.com (Founder & Lead Architect)
 ```
 
 ### **Business Analyst** | **Opalspace**
@@ -141,45 +147,38 @@ timeline
 *Oct 2023 – May 2024*
 * Delivered enterprise WordPress websites and search optimization solutions for clients across **8+ industries** (Healthcare, Logistics, E-commerce, Education, Fitness, Pet Care, Travel).
 * Implemented mobile-first responsive interfaces, technical SEO audits, site speed caching layers, structured schema, and metadata architecture.
-* Transformed client commercial goals into concrete engineering sprints, conversion-oriented landing pages, and measurable SERP rank improvements.
 
 ### **WordPress Developer Intern** | **Krinvi Technologies Pvt. Ltd.**
 *Apr 2023 – Sep 2023*
 * Developed and optimized client websites in construction, finance, and e-commerce domains.
-* Managed Amazon and Flipkart catalog feeds, optimizing product titles, keyword tags, and inventory synchronization.
 * **Received an official Appreciation Letter within 2 months** in recognition of superior execution speed and project ownership.
 
 ### **Frontend Developer Intern** | **Careerguide.com**
 *Nov 2022 – Apr 2023*
 * Engineered responsive UI components using HTML5, CSS3, and JavaScript (ES6).
-* Performed deep keyword discovery and competitive gap analysis using SEMrush and Search Console, achieving **Top-3 Google organic rankings** for multiple core informational assets.
+* Achieved **Top-3 Google organic rankings** for multiple core informational assets.
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Honors
 
 * **Bachelor of Technology (B.Tech) — Computer Science and Engineering**  
   *Dr. APJ Abdul Kalam Technical University (AKTU), Lucknow* | *2022 – 2025* | **CGPA: 7.03**
 * **Diploma — Aircraft Maintenance Engineering**  
-  *Board of Technical Education, Uttar Pradesh (BTEUP)* | *2018 – 2021* | **Score: 80%**
-
----
-
-## 🏆 Honors & Recognitions
-
-* 🏅 **Mahindra All India Talent Scholarship** — Awarded on the basis of academic excellence and technical potential.
-* 📜 **Appreciation Letter — Krinvi Technologies** — Awarded within 60 days of tenure for exemplary technical contributions.
+  *Board of Technical Education, Uttar Pradesh (BTEUP)* | *2018 – 2021* | **Score: 80% (First Class with Distinction)**
+* 🏅 **Mahindra All India Talent Scholarship** — Recognized for academic excellence and technical potential.
+* 📜 **Appreciation Letter — Krinvi Technologies** — Awarded within 60 days of tenure.
 
 ---
 
 ## 📬 Connect & Contact
 
+* **Email**: [cyco2052544@gmail.com](mailto:cyco2052544@gmail.com)
 * **GitHub**: [@Cyconik](https://github.com/Cyconik)
-* **Phone**: [+91 6388693276](tel:+916388693276)
 * **Location**: Noida, Uttar Pradesh, India
 * **Portfolio Website**: [https://cyconik.github.io/portfolio/](https://cyconik.github.io/portfolio/)
 * **Portfolio Source Code**: [Cyconik/portfolio](https://github.com/Cyconik/portfolio)
 
 <div align="center">
-  <sub>Designed & Maintained with precision by Nikhil Singh (@Cyconik). All rights reserved.</sub>
+  <sub>Designed & Maintained with precision by Nikhil Kumar Singh (@Cyconik). All rights reserved.</sub>
 </div>
