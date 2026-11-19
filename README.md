@@ -1,12 +1,12 @@
 <div align="center">
 
 # Nikhil Kumar Singh
-### **Business Analyst • Product Owner • Software Developer • Tech Entrepreneur**
+### **Business Analyst | Product Owner | Digital Product Builder & Founder**
 
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-cyconik.github.io%2Fportfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyconik.github.io/portfolio/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Cyconik-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyconik)
 [![Email Contact](https://img.shields.io/badge/Email-cyco2052544%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyco2052544@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Noida%2C%20UP%2C%20India-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white)](#-connect--contact)
+[![Location](https://img.shields.io/badge/Location-Open%20to%20Relocate%20Anywhere-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white)](#-connect--contact)
 [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-059669?style=for-the-badge)](#-professional-experience)
 
 <p align="center">
@@ -23,37 +23,38 @@ I am a **Business Analyst, Product Owner, and Tech Entrepreneur** with 4 years o
 
 * **Strategic Execution**: Proven track record in translating complex business challenges into actionable Functional Requirement Documents (FRD), Business Requirement Documents (BRD), User Stories, Acceptance Criteria, and UAT test plans.
 * **Measurable Growth**: Spearheaded digital strategy and technical SEO at Creative Tura for Turbo Auto Parts, accelerating organic search traffic from **~1,570 to 17,700 monthly sessions in just 4 months** (**+1,027% organic growth**).
-* **Flagship Venture**: Founder of **Bargenify** ([bargenify.com](https://bargenify.com/)) — **India's 1st online bargaining platform**, building plugins and APIs for e-commerce shop owners to enable real-time digital price negotiations.
+* **Flagship Venture**: Founder of **Bargenify** ([bargenify.com](https://bargenify.com/)), **India's 1st online bargaining platform**, building plugins and APIs for e-commerce shop owners to enable real-time digital price negotiations.
 * **Product Entrepreneurship**: Founder of **ScanSecure** ([scansecure.in](https://scansecure.in)), **Galigram** ([galigram.com](https://galigram.com)), **SpillX** ([spillx.in](https://spillx.in)), and **WebPConverter.tech**.
+* **Availability**: Open to relocate anywhere for permanent employment or corporate sponsorship in Business Analyst, Product Owner, or Technical Product Lead roles.
 
 ---
 
 ## 🚀 Flagship & Featured Built Products
 
-### 1. 🌟 [Bargenify](https://bargenify.com) — *Founder & Lead Architect*
-> **India's 1st Online Bargaining Platform — Digital Price Negotiation Plugin & API**
+### 1. 🌟 [Bargenify](https://bargenify.com) : *Founder & Lead Architect*
+> **India's 1st Online Bargaining Platform : Digital Price Negotiation Plugin & API (Started Oct 2026)**
 * **The Innovation**: Digitizes India's cultural retail bargaining experience for e-commerce. Building plug-and-play merchant plugins and APIs for online shop owners that let customers negotiate product prices in real time.
 * **Business Impact**: Converts price-hesitant cart abandoners into buyers while automatically protecting seller profit margins through configurable threshold algorithms.
 
-### 2. [ScanSecure](https://scansecure.in) — *Founder*
-> **India's #1 Emergency Smart Card Platform (QR-Enabled PVC Tech)**  
-* **Problem Solved**: Enables first responders or bystanders to instantly access vital emergency medical data and primary emergency contacts without requiring the patient's phone to be unlocked, an app installed, or user login.
-* **Capabilities**: Defined end-to-end user journeys for individual, student, and corporate safety cards. Configured dynamic user profile workflows and physical QR pairing protocols.
-
-### 3. [Galigram](https://galigram.com) — *Founder*
-> **Location-Aware Hyper-Local Social Micro-Video Platform (30s Reports)**  
+### 2. [Galigram](https://galigram.com) : *Founder*
+> **Location-Aware Hyper-Local Social Micro-Video Platform (30s Reports) (Started Sep 2026)**  
 * **Status**: *In Development (Under Active Process)*
 * **Vision**: Concise 30-second video reporting, hyper-local discovery, community updates, and neighborhood conversation streams without algorithmic outrage feeds.
 
-### 4. [WebPConverter.tech](https://webpconverter.tech) — *Creator & Architect*
-> **Real-Time Image Compression — Reduces Up to 90% File Size with Zero Quality Loss**  
-* **Highlights**: Browser-based client-side WebAssembly batch converter and compression suite that slashes image payloads by up to 90% without visual degradation. Includes developer REST APIs and WordPress/WooCommerce plugin integrations.
+### 3. [ScanSecure](https://scansecure.in) : *Founder*
+> **India's #1 Emergency Smart Card Platform (QR-Enabled PVC Tech) (Started May 2026)**  
+* **Problem Solved**: Enables first responders or bystanders to instantly access vital emergency medical data and primary emergency contacts without requiring the patient's phone to be unlocked, an app installed, or user login.
+* **Capabilities**: Defined end-to-end user journeys for individual, student, and corporate safety cards. Configured dynamic user profile workflows and physical QR pairing protocols.
 
-### 5. [SpillX](https://spillx.in) — *Founder*
-> **Anonymous Social Confession & Discussion Community**  
+### 4. [SpillX](https://spillx.in) : *Founder*
+> **Anonymous Social Confession & Discussion Community (Started Oct 2025)**  
 * **Highlights**: Engineered WordPress-backed platform with anonymous text confession feeds, interactive emotional reactions, private 1-on-1 conversations, safety moderation pipelines, and targeted SEO strategy.
 
-### 6. [QuickChat](https://github.com/Cyconik/QuickChat) — *Developer*
+### 5. [WebPConverter.tech](https://webpconverter.tech) : *Creator & Architect*
+> **Real-Time Image Compression : Reduces Up to 90% File Size with Zero Quality Loss**  
+* **Highlights**: Browser-based client-side WebAssembly batch converter and compression suite that slashes image payloads by up to 90% without visual degradation. Includes developer REST APIs and WordPress/WooCommerce plugin integrations.
+
+### 6. [QuickChat](https://github.com/Cyconik/QuickChat) : *Developer*
 > **100% Offline Bluetooth Mesh Group Messenger for Android**  
 * **Architecture**: Zero Internet, Zero Cellular Data, Zero SIM Cards. Implements autonomous **Multi-Hop BLE Phone-to-Phone packet relaying** (`Phone A ➔ Phone B ➔ Phone C ➔ Phone D`).
 * **Direct Download**: [QuickChat-Mesh-Offline.apk](https://github.com/Cyconik/QuickChat/raw/main/QuickChat-Mesh-Offline.apk)
@@ -63,7 +64,6 @@ I am a **Business Analyst, Product Owner, and Tech Entrepreneur** with 4 years o
 * **[Element Inspector](https://cyberzip.in/element-inspector/)**: Chrome Extension for web developers & designers to inspect DOM elements, download images, and copy CSS/URLs in 1-click.
 * **[Bulk Mailer](https://cyberzip.in/bulk-mailer/)**: 100% lifetime free and spam-free cold email outreach tool with Google Sheets sync, Gmail App Password, SMTP, and merge tags.
 * **[B2B Leads Scraper](https://cyberzip.in/leads-scraper.php)**: 100% block-free B2B and Google Maps lead generation scraper with anti-blocking request workflows.
-* **[Client Websites Built From Scratch](https://cyberzip.in/our-work.php)**: Portfolio of production web applications, e-commerce storefronts, and fintech platforms delivered from scratch.
 
 ---
 
@@ -114,7 +114,7 @@ I am a **Business Analyst, Product Owner, and Tech Entrepreneur** with 4 years o
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience & Milestones
 
 ```mermaid
 timeline
@@ -124,7 +124,10 @@ timeline
          : Prodemy India (WordPress & SEO Strategist)
     2024 : Creative Tura / Turbo Auto Parts (BA / WP Developer)
          : Opalspace (Business Analyst - Current)
-    2025 : Bargenify.com (Founder & Lead Architect)
+    2025 : SpillX.in Founded (Oct 2025)
+    2026 : ScanSecure.in Launched (May 2026)
+         : Galigram.com Founded (Sep 2026)
+         : Bargenify.com Flagship Started (Oct 2026)
 ```
 
 ### **Business Analyst** | **Opalspace**
@@ -162,12 +165,12 @@ timeline
 
 ## 🎓 Education & Honors
 
-* **Bachelor of Technology (B.Tech) — Computer Science and Engineering**  
+* **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
   *Dr. APJ Abdul Kalam Technical University (AKTU), Lucknow* | *2022 – 2025* | **CGPA: 7.03**
-* **Diploma — Aircraft Maintenance Engineering**  
+* **Diploma in Aircraft Maintenance Engineering**  
   *Board of Technical Education, Uttar Pradesh (BTEUP)* | *2018 – 2021* | **Score: 80% (First Class with Distinction)**
-* 🏅 **Mahindra All India Talent Scholarship** — Recognized for academic excellence and technical potential.
-* 📜 **Appreciation Letter — Krinvi Technologies** — Awarded within 60 days of tenure.
+* 🏅 **Mahindra All India Talent Scholarship**: Recognized for academic excellence and technical potential.
+* 📜 **Appreciation Letter : Krinvi Technologies**: Awarded within 60 days of tenure.
 
 ---
 
@@ -175,7 +178,7 @@ timeline
 
 * **Email**: [cyco2052544@gmail.com](mailto:cyco2052544@gmail.com)
 * **GitHub**: [@Cyconik](https://github.com/Cyconik)
-* **Location**: Noida, Uttar Pradesh, India
+* **Location**: Noida, Uttar Pradesh, India (Open to Relocate Anywhere • Remote & Onsite)
 * **Portfolio Website**: [https://cyconik.github.io/portfolio/](https://cyconik.github.io/portfolio/)
 * **Portfolio Source Code**: [Cyconik/portfolio](https://github.com/Cyconik/portfolio)
 
