@@ -3,6 +3,7 @@
 # Nikhil Singh
 ### **Business Analyst • Product & Operations Analyst • Software Developer • Entrepreneur**
 
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-cyconik.github.io%2Fportfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyconik.github.io/portfolio/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Cyconik-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyconik)
 [![Location](https://img.shields.io/badge/Location-Noida%2C%20UP%2C%20India-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white)](#-connect--contact)
 [![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-059669?style=for-the-badge)](#-professional-experience)
@@ -176,7 +177,8 @@ timeline
 * **GitHub**: [@Cyconik](https://github.com/Cyconik)
 * **Phone**: [+91 6388693276](tel:+916388693276)
 * **Location**: Noida, Uttar Pradesh, India
-* **Portfolio**: [Nikhil Singh Portfolio](https://github.com/Cyconik)
+* **Portfolio Website**: [https://cyconik.github.io/portfolio/](https://cyconik.github.io/portfolio/)
+* **Portfolio Source Code**: [Cyconik/portfolio](https://github.com/Cyconik/portfolio)
 
 <div align="center">
   <sub>Designed & Maintained with precision by Nikhil Singh (@Cyconik). All rights reserved.</sub>
